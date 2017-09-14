@@ -7,7 +7,7 @@ public class Main : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 		transform.position = new Vector3(10,0,0);
-		Debug.Log("Test");
+		Debug.Log("Test git 2");
 	}
 	
 	// Update is called once per frame
